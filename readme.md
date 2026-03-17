@@ -17,7 +17,6 @@ Dilesh Kumar Badghaiya     -- 160922748312
 
 📚 Additional Reference (Project Coordinator’s Published Work)
 We have also included the following published research work by our project Coordinator for reference and academic support:
-
 🔗 [https://openurl.ebsco.com/EPDB%3Agcd%3A16%3A11748400/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A161214937&crl=c&link_origin=scholar.google.com]⁠
 
 🏫 Institution:
