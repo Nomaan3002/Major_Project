@@ -2,18 +2,6 @@ Title -- A_Comprehensive_Review_on_Cyber-Attacks_in_Power_Systems_Impact_Analysi
 
 ## 👨‍💻 Team Members:
 
-
-
-Shaik Mohammed Noman Ahmed	
-160922748148
-
-Shaik Abdul Aziz Ali Uddin 	
-160922748144
-
-Dilesh Kumar Badghaiya	
-160922748312
-
-
 Shaik Mohammed Noman Ahmed -- 160922748148
 
 Shaik Abdul Aziz Ali Uddin -- 160922748144
