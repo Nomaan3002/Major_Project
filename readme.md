@@ -27,7 +27,9 @@ This project focuses on cyber-attacks in modern power systems, especially smart 
 In this project, we analyze different types of cyber-attacks and their impact on power systems. We also discuss various security techniques like blockchain, cryptography, and AI-based detection to protect the system. The main goal is to improve the security, reliability, and efficiency of smart grid power systems.
 
 
-🛠️ Technologies Used:
+🛠️ Technologies Used
+
+
 -> Internet of Things (IoT)     -- Used to collect real-time data through smart meters and sensors.
 
 
@@ -41,5 +43,11 @@ In this project, we analyze different types of cyber-attacks and their impact on
 
 
 -> Machine Learning (ML)        -- Identifies unusual patterns and supports real-time threat detection.
+
+
 -> Python Programming           -- Used for implementing algorithms and system simulation.
+
+
 -> Smart Grid Technology        -- A modern power system with two-way communication and real-time monitoring.
+
+
