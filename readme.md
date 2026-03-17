@@ -23,11 +23,13 @@ We have also included the following published research work by our project Coord
 Lords Institute of Engineering and Technology, Hyderabad
 
 📌 Project Description:
+
+
 This project focuses on cyber-attacks in modern power systems, especially smart grids. Smart grids use internet and IoT technologies for better electricity management and real-time monitoring. However, this also makes the system vulnerable to cyber threats such as data tampering, electricity theft, and unauthorized access.
 In this project, we analyze different types of cyber-attacks and their impact on power systems. We also discuss various security techniques like blockchain, cryptography, and AI-based detection to protect the system. The main goal is to improve the security, reliability, and efficiency of smart grid power systems.
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 
 -> Internet of Things (IoT)     -- Used to collect real-time data through smart meters and sensors.
