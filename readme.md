@@ -29,9 +29,13 @@ In this project, we analyze different types of cyber-attacks and their impact on
 
 🛠️ Technologies Used:
 -> Internet of Things (IoT)     -- Used to collect real-time data through smart meters and sensors.
+
 -> Blockchain Technology        -- Ensures secure and tamper-proof data storage and transactions.
+
 -> Cryptography (Encryption)    -- Protects communication by maintaining data confidentiality and integrity.
+
 -> Artificial Intelligence (AI) -- Helps in detecting cyber-attacks using intelligent analysis.
+
 -> Machine Learning (ML)        -- Identifies unusual patterns and supports real-time threat detection.
 -> Python Programming           -- Used for implementing algorithms and system simulation.
 -> Smart Grid Technology        -- A modern power system with two-way communication and real-time monitoring.
