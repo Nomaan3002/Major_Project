@@ -8,7 +8,8 @@ Shaik Abdul Aziz Ali Uddin -- 160922748144
 
 Dilesh Kumar Badghaiya     -- 160922748312 
 
-Department: CSM (CSE-AIML), Section C
+
+🖥️ Department: CSM (CSE-AIML), Section C
 
 🎓 Project Guide - Ms.Naila Fatima (Assistant Professor)
 
