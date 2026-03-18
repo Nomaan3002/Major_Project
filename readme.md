@@ -11,9 +11,9 @@ Dilesh Kumar Badghaiya     -- 160922748312
 
 🖥️ Department: CSM (CSE-AIML), Section C
 
-🎓 Project Guide - Ms.Naila Fatima (Assistant Professor)
-
 🎓 Co-ordinator - Dr.Kamel Mohammed Alikhan Siddiqui (Associate Professor & Automation S/W Incharge)
+
+🎓 Project Guide - Ms.Naila Fatima (Assistant Professor)
 
 📚 Additional Reference (Project Coordinator’s Published Work)
 We have also included the following published research work by our project Coordinator for reference and academic support:
